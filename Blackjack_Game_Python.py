@@ -1,6 +1,3 @@
-
-
-
 # IMPORT STATEMENTS AND VARIABLE DECLARATIONS:
 
 import random
